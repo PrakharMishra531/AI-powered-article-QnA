@@ -8,3 +8,4 @@ libmagic
 python-magic
 langchain-huggingface 
 langchain-community
+gunicorn
