@@ -66,15 +66,5 @@ A modern web application built with Streamlit that allows users to paste URLs, e
     - Paste up to 3 URLs.
     - Ask questions and get answers based on the content of the URLs.
 
-## Dependencies
-
-- `streamlit`
-- `transformers`
-- `faiss-cpu`
-- `sentence-transformers`
-- `requests`
-- `beautifulsoup4`
-- `numpy`
-- `pandas`
 
 
